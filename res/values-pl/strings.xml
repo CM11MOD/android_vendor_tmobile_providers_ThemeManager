@@ -22,4 +22,5 @@
   <string name="permdesc_access_DrmThemeResources">Pozwala aplikacji na odczytywanie zawartych w pakietach motywów zasobów mediów z zabezpieczeniami DRM.</string>
   <string name="permlab_set_theme">ustawianie ogólnego motywu</string>
   <string name="permdesc_set_theme" product="tablet">Pozwala aplikacji na zmienianie wizualnego motywu tego tabletu.</string>
+  <string name="permdesc_set_theme" product="default">Pozwala aplikacji na zmienianie wizualnego motywu tego smartfona.</string>
 </resources>
